@@ -1,4 +1,7 @@
-### Hi there, I'm Gillian a frontend developer 👋
+### Hello there 👋
+
+I'm Gillian, a Frontend Developer based near Glasgow, Scotland.
+
 
 
 <!--
